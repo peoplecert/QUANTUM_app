@@ -21,7 +21,7 @@ Business Analysts can now target enhanced and efficient business analysis with s
 **🎥 Video Presentation**
 -------------------------
 
-Explore QUANTUM more deeply with our video presentation, elaborating on its integrated features and functionalities.
+Explore QUANTUM more deeply with our [video](https://drive.google.com/file/d/1JNx9rZ8kOca1JiwajtazzlmFhBoIi3C9/view?usp=drive_link) presentation, elaborating on its integrated features and functionalities.
 
 **🤝 Team Members:**
 --------------------
