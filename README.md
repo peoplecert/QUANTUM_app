@@ -32,6 +32,6 @@ Explore QUANTUM more deeply with our video presentation, elaborating on its inte
 
 **🌐 Cross-Functional Collaboration:**
 
-These projects manifest the synergy of cross-functional teams at PeopleCert. Born from our internal citizen developers' initiative, each project is a testament to collaborative innovation and experimental endeavor within PeopleCert, emphasizing our commitment to collective growth and learning in the technological realm. The successes of QUANTUM underscore our unwavering dedication to continuous improvement through unified efforts and diverse skill sets.
+These projects manifest the synergy of cross-functional teams at PeopleCert. Born from our internal citizen developers' initiative, each project is a testament to collaborative innovation and experimental endeavor within PeopleCert, emphasizing our commitment to collective growth and learning in the technological realm. The success of QUANTUM underscore our unwavering dedication to continuous improvement through unified efforts and diverse skill sets.
 
 In unity and innovation by the PeopleCert Team.
